@@ -11,7 +11,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-smriti--shrestha.com.np-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smriti-shrestha.com.np/)
 [![GitHub](https://img.shields.io/badge/GitHub-Smriti--Shrs-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smriti-Shrs)
 ![Location](https://img.shields.io/badge/Nepal-Web%20Developer-A78BFA?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=Smriti-Shrs&label=Profile%20Views&color=7C3AED&style=for-the-badge)
 
 </div>
 
@@ -183,6 +182,16 @@ Currently, I am building projects, improving my development workflow, and growin
 
 ---
 
+## Contributions
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Smriti-Shrs&bg_color=ffffff&color=6D28D9&line=C084FC&point=7C3AED&area=true&area_color=F3E8FF&hide_border=true&radius=12" alt="Smriti Shrestha GitHub contribution activity graph" />
+
+</div>
+
+---
+
 ## Fun Facts
 
 <table>
@@ -213,8 +222,8 @@ Currently, I am building projects, improving my development workflow, and growin
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-smriti--shrestha.com.np-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smriti-shrestha.com.np/)
 [![GitHub](https://img.shields.io/badge/GitHub-Smriti--Shrs-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smriti-Shrs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20LinkedIn%20URL-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Add%20Email%20Address-FB7185?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Smriti%20Shrestha-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smrity-s-28a791343/)
+[![Email](https://img.shields.io/badge/Email-shresthasmrity225%40gmail.com-FB7185?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shresthasmrity225@gmail.com)
 
 </div>
 

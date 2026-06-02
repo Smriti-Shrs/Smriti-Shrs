@@ -183,21 +183,6 @@ Currently, I am building projects, improving my development workflow, and growin
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Smriti-Shrs&show_icons=true&hide_border=true&theme=default&title_color=7C3AED&icon_color=A855F7&text_color=374151&bg_color=FFFFFF" alt="Smriti Shrestha GitHub stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti-Shrs&layout=compact&hide_border=true&theme=default&title_color=7C3AED&text_color=374151&bg_color=FFFFFF" alt="Most used languages" />
-
-<br />
-
-<img width="78%" src="https://streak-stats.demolab.com?user=Smriti-Shrs&theme=default&hide_border=true&ring=7C3AED&fire=FB7185&currStreakLabel=7C3AED&sideLabels=6B7280&dates=6B7280" alt="GitHub streak" />
-
-</div>
-
----
-
 ## Fun Facts
 
 <table>
